@@ -9,6 +9,7 @@
     <version>${project-version}</version>
     <modules>
         <module>test</module>
+        <module>monitor-parent</module>
     </modules>
     <packaging>pom</packaging>
     <properties>
